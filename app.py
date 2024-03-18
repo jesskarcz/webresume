@@ -145,7 +145,7 @@ st.write(
 
 # --- Exp 2
 st.write('\n')
-st.subheader("Sr Digital & E-Commerce Manager | JUANITA JO")
+st.subheader("Sr Digital Manager & E-Commerce Developer | JUANITA JO")
 st.write("03/2016 to 06/2019")
 st.write(
     """
@@ -156,22 +156,24 @@ st.write(
 - ► Reviewed monthly conversion rates, leading strategic planning and execution of improvements to optimize performance.
 - ► Led the implementation end-to-end and development of the B2B e-commerce platform project, defining user stories, roadmap, and priorities.
 - ► Oversaw all aspects of technical projects and IT initiatives, ensuring timely deliverables within budget and meeting KPIs.
-- ► Collaborated with internal and external stakeholders to enhance e-commerce and social presence, contributing to a 15/%/ increase in brand awareness and annual sales during the first year.
+- ► Collaborated with internal and external stakeholders to enhance e-commerce and social presence, contributing to a 20% increase in brand awareness and annual sales during the first year.
+
 """
 )
 
 # --- Exp 3
 st.write('\n')
-st.subheader("Project Manager & Full-Stack Developer | BRAIN NDW")
+st.subheader("Project Manager & Full-Stack Developer  | BRAINDW")
 st.write("08/2014 to 03/2016")
 st.write(
     """
 - ► Managed and planned the requirements for e-commerce development, with a strategic vision based on user stories.
 - ► Cross-functional meetings with developments teams (commercial, designers & developers) for improvements such as usability, performance and commercial strategies.
 - ► Software Development Life Cycle (SDLC) process. 
-- ► Implementation of best-practices following industry standards and Cross-Browsing testing. Reviewed and analyzed web systems performance.
+- ► Debugged and troubleshot code, resulting in a 15% reduction in production issues, increasing customer satisfaction.
 - ► Added new functionalities (scripts or APIs implementations). 
-- ► Used different programming languages: HTML, CSS, PHP, .NET and JavaScript and worked with database systems: MySQL and SQL Server. For repository management I used Tortoise SVP & GitHub.
+- ► Used different programming languages: HTML, CSS, PHP, .NET and JavaScript and worked with database systems: MySQL and SQL Server. Version control systems such as Tortoise SVP & GitHub.
+
 """
 )
 
