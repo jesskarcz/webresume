@@ -129,16 +129,15 @@ st.subheader("Sr Performance Analyst | TELUS")
 st.write("06/2019 to present")
 st.write(
     """
-- ► Manage larger deployments, automations, and Ad-hocs, including template coding (HTML, CSS, JS), data integration (SAS), Adobe Campaign workflow setup, and segmentation configuration (Queries).
-- ► Develop mobile-friendly email templates for optimized customer experiences across all devices, ensuring consistency through QA rendering.
-- ► Collaborate with stakeholders to identify and address operational bottlenecks, and streamline processes. 
-- ► Work with technical teams and campaign stakeholders on software development, improvements, internal tools, and implementation issues.
-- ► Provide technical expertise to establish and implement intake processes for EM/SMS campaigns, ensuring compliance with internal policies, regulatory requirements (including CASL), and industry best practices.
-- ► Develop clear guidelines and checklists for campaign submissions, set timelines and requirements, covering key elements like content, targeting, approvals, and scheduling. 
-- ► Ad-hoc analysis for marketing campaigns to generate insights, improve resources allocation and make recommendations.
-- ► Collaborate with cross-functional teams (GTM, Marketing, Data, Devs) to optimize campaign execution and enhance customer experience.
-- ► Detect automation opportunities, manage developers' workload, and provide guidance to implement process improvements and best practices.
-- ► Utilize Tableau & Domo for data visualization and analysis, and conduct comprehensive data analysis.
+
+- ► Successfully multitask in the management of diverse Mobility, Home Solutions and Health portfolios, meeting and exceeding expected deadlines.
+- ► Development of large-scale automations, customer journeys, and ad-hoc campaigns using Adobe Campaign. This includes template coding (HTML, CSS, JS), data extraction (SAS), and audience segmentation.
+- ► Build responsive mobile-first email templates for optimal customer experience across all devices, ensuring consistent rendering through QA testing.
+- ► Optimized marketing campaign, increasing customer engagement by 20% through A/B testing and dynamic modules.
+- ► Provide technical guidance to GTM and MarComm teams, promoting best practices. 
+- ► Identify automation and journey opportunities to minimize churn and customer fatigue.
+- ► Conduct comprehensive data analysis using SAS Studio and SQL, extracting actionable insights to enhance marketing strategies.
+- ► Partner with GTM, Marketing, Data stakeholders to identify and address operational bottlenecks, streamline processes and to enhance customer experience.
 
 """
 )
@@ -149,15 +148,16 @@ st.subheader("Sr Digital Manager & E-Commerce Developer | JUANITA JO")
 st.write("03/2016 to 06/2019")
 st.write(
     """
-- ► SDLC for B2B and B2C E-Commerce platforms (Prestashop, Wordpress). API integrations.
-- ► Test, troubleshoot, and fix front-end and back-end software production issues.
+- ► Managed the SDLC process for B2B and B2C E-Commerce platforms (Prestashop, Wordpress), including API integrations.
+- ► Tested, troubleshooted, and fixed front-end and back-end production issues.
 - ► Established benchmarks and implemented robust reporting mechanisms to enhance sales strategy and drive digital initiatives.
-- ► Defined and monitored quarterly KPIs aligning with company strategic goals, ensuring measurable performance across business units and conducted recurring market research, employing data analysis and segmentation techniques to identify and prioritize actionable insights.
+- ► Defined and monitored quarterly KPIs aligned with company strategic goals.
 - ► Reviewed monthly conversion rates, leading strategic planning and execution of improvements to optimize performance.
-- ► Led the implementation end-to-end and development of the B2B e-commerce platform project, defining user stories, roadmap, and priorities.
-- ► Oversaw all aspects of technical projects and IT initiatives, ensuring timely deliverables within budget and meeting KPIs.
-- ► Collaborated with internal and external stakeholders to enhance e-commerce and social presence, contributing to a 20% increase in brand awareness and annual sales during the first year.
-
+- ► Led the end-to-end development of a B2B platform, defining user stories, roadmap, and priorities. 
+- ► Conducted regular market research to identify actionable insights. Analyzed monthly conversion rates and led strategic planning to optimize platform performance.
+- ► Headed the development and execution of email marketing strategies using Salesforce Marketing Cloud, integrated with the e-commerce platform and CRM (Zoho).
+- ► Directed internal and external teams (UI/UX & graphic designers, advertising) to boost e-commerce and social presence, resulting in a 20% increase in brand awareness, engagement, and conversions during the first year.
+ 
 """
 )
 
@@ -167,12 +167,13 @@ st.subheader("Project Manager & Full-Stack Developer  | BRAINDW")
 st.write("08/2014 to 03/2016")
 st.write(
     """
-- ► Managed and planned the requirements for e-commerce development, with a strategic vision based on user stories.
-- ► Cross-functional meetings with developments teams (commercial, designers & developers) for improvements such as usability, performance and commercial strategies.
-- ► Software Development Life Cycle (SDLC) process. 
-- ► Debugged and troubleshot code, resulting in a 15% reduction in production issues, increasing customer satisfaction.
-- ► Added new functionalities (scripts or APIs implementations). 
-- ► Used different programming languages: HTML, CSS, PHP, .NET and JavaScript and worked with database systems: MySQL and SQL Server. Version control systems such as Tortoise SVP & GitHub.
+- ► Headed meetings with commercial teams, designers, and developers to optimize e-commerce platform usability, performance, and go-to-market strategies.
+- ► Applied Software Development Life Cycle (SDLC) process for the requirements for an effective e-commerce development.
+- ► Debugged and troubleshooted code, resulting in a 15% reduction in production issues and increased customer satisfaction.
+- ► Designed and developed responsive landing pages and e-commerce templates, ensuring optimal user experience across all devices and browsers. 
+- ► Implemented new functionalities through scripts or API integrations. 
+- ► Utilized HTML, CSS, PHP, .NET, and JavaScript for development. Worked with MySQL and SQL Server databases. Version control systems such as Tortoise SVP & GitHub.
+
 
 """
 )
